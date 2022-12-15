@@ -38,8 +38,6 @@ If you want to contact me, please send me an email
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
 </p>
 
-<br>
-
 ### 👩🏻‍💻 Skills
 <p align="left">
     <img src="https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=Python&logoColor=white"/>

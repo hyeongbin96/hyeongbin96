@@ -7,7 +7,6 @@
 
 ## Hi There 👋  
 
-
 <a href="https://github.com/jiyeoon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -17,7 +16,7 @@
 
 ### Hello, I'm HyeongBin Jeon
 
-I'm a cloud engineer from HIST.🇰🇷. I'm interested in python and automation and devops. I love exercising and communicating!
+I'm a cloud engineer from HIST.🇰🇷. I'm interested in python and automation and devops. My career goal is to become a DevOps engineer for IT company(네카라쿠배)
 
 If you want to contact me, please send me an email
 

@@ -16,7 +16,7 @@
 
 ### Hello, I'm HyeongBin Jeon
 
-I'm a cloud engineer from HIST.🇰🇷. I'm interested in python and automation and devops. My career goal is to become a DevOps engineer for IT company(네카라쿠배)
+I'm a cloud engineer from HIST.🇰🇷. I'm interested in python and automation and devops. My career goal is to become a DevOps engineer of IT company aka 네카라쿠배
 
 If you want to contact me, please send me an email
 

@@ -17,11 +17,8 @@
 
 ### Hello, I'm HyeongBin Jeon
 
-I am a cloud engineer from HIST.🇰🇷
-
-I am interested in python and automation and devops. I love exercising and communicating!<br>
+I'm a cloud engineer from HIST.🇰🇷. I'm interested in python and automation and devops. I love exercising and communicating!<br>
 If you want to contact me, please send me an email
-
 <br>
 
 ### 💫 Experience

@@ -1,25 +1,11 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=hyeongbin96&&style=flat-square" align="right" />
 </div>  
-  
 
-<br/>  
+## 👋 전형빈
 
-## Hi There 👋  
-
-<a href="https://github.com/jiyeoon" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/hb0422/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-### Hello, I'm HyeongBin Jeon
-
-I'm a cloud engineer from HIST.🇰🇷. I'm interested in python and automation and devops. My career goal is to become a DevOps engineer of IT company aka 네카라쿠배
-
-If you want to contact me, please send me an email
-
+Cloud engineer
+Interested in python and automation and devops
 <br>
 
 ### 💫 Experience
@@ -60,3 +46,9 @@ If you want to contact me, please send me an email
 <br/>  
 
 
+<a href="https://www.linkedin.com/in/hb0422/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://velog.io/@hyeongbin" target="_blank">
+<img src=https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 5px;" />
+</a>

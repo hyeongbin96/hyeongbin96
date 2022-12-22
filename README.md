@@ -4,8 +4,16 @@
 
 ## 👋 전형빈
 
-Cloud engineer
-Interested in python and automation and devops
+Cloud engineer <br>
+Interested in python and automation and devops <br>
+
+<a href="https://www.linkedin.com/in/hb0422/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://velog.io/@hyeongbin" target="_blank">
+<img src=https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 5px;" />
+</a>
+
 <br>
 
 ### 💫 Experience
@@ -43,12 +51,3 @@ Interested in python and automation and devops
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongbin96&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>  
-<br/>  
-
-
-<a href="https://www.linkedin.com/in/hb0422/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://velog.io/@hyeongbin" target="_blank">
-<img src=https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 5px;" />
-</a>

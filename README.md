@@ -1,11 +1,7 @@
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=hyeongbin96&&style=flat-square" align="right" />
-</div>  
-
 ## 👋 전형빈
 
-Cloud engineer <br>
-Interested in python and automation and devops
+Cloud Engineer <br>
+Im interested in python and automation and devops
 
 <a href="https://www.linkedin.com/in/hb0422/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -14,6 +10,7 @@ Interested in python and automation and devops
 <img src=https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white alt=velog style="margin-bottom: 5px;" />
 </a>
 
+<br>
 <br>
 
 ### 💫 Experience

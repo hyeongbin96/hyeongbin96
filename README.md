@@ -5,7 +5,9 @@
 ## 👋 전형빈
 
 Cloud engineer <br>
-Interested in python and automation and devops <br>
+Interested in python and automation and devops 
+
+<br>
 
 <a href="https://www.linkedin.com/in/hb0422/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -30,6 +32,8 @@ Interested in python and automation and devops <br>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
 </p>
+
+<br>
 
 ### 👩🏻‍💻 Skills
 <p align="left">

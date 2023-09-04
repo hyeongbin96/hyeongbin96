@@ -1,4 +1,4 @@
-## 👋 전형빈
+## 전형빈
 
 Cloud Engineer <br>
 Im interested in python and automation and devops

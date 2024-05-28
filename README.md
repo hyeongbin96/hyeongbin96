@@ -1,7 +1,7 @@
 ## 전형빈
 
 Cloud Engineer <br>
-파이썬을 통한자동화와 finops, 모니터링에 관심이 있습니다. 최종 커리어는 platform engineer이고 싶습니다.
+자동화, finops, 모니터링에 관심이 많습니다. 최종 커리어 목표는 platform engineer입니다.
 
 <a href="https://hyeongbin.tistory.com/" target="_blank">
 <img src=https://img.shields.io/badge/TISTORY-000000.svg?&style=for-the-badge&logo=TISTORY&logoColor=white alt=velog style="margin-bottom: 5px;" />

@@ -9,8 +9,8 @@ cloudnative, finops, sre에 관심있음 <br>
 ```
 {
     Age : 29
-    Skill : [
+    Skill : {
         Lang : [Sql, Python, Java]
-    ]    
+    }
 }
 ```

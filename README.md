@@ -7,10 +7,10 @@ cloudnative, finops, sre에 관심있음 <br>
 <br>
 
 ```
-{
-    Age : 29
-    Skill : {
-        Lang : [Sql, Python, Java]
+HB = {
+    'Age': '29',
+    'Skill': {
+        'Lang': ['Sql', 'Python']
     }
 }
 ```

@@ -10,7 +10,8 @@ cloudnative, finops, sre에 관심있음 <br>
 HB = {
     'Age': '29',
     'Skill': {
-        'Lang': ['Sql', 'Python']
+        'Lang': ['Sql', 'Python', 'Java']
+        'Framework': ['Fastapi', 'Spring']
     }
 }
 ```

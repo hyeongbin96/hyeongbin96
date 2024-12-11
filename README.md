@@ -7,11 +7,12 @@ cloudnative, finops, sre에 관심있음 <br>
 <br>
 
 ```
-HB = {
-    'Age': '29',
-    'Skill': {
-        'Lang': ['Sql', 'Python', 'Java']
-        'Framework': ['Fastapi', 'Spring']
+{
+    "Age": "29",
+    "Skill": {
+        "Lang": ["Sql", "Python", "Java"],
+        "Framework": ["Fastapi", "Spring"]
     }
 }
+
 ```
